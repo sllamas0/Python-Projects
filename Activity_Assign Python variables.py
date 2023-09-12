@@ -472,8 +472,4 @@ print(login_status_type)
 
 # output shows that the data type of login_status is a boolean value.
 
-# ## Conclusion
-# 
-# **What are your key takeaways from this lab?**
 
-# [Double-click to enter your responses here.]
