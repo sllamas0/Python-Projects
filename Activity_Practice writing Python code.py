@@ -211,8 +211,4 @@ print("Python is useful for security")
 
 # I observed that the script printed all the statements written thus far.
 
-# ## Conclusion
-# 
-# **What are your key takeaways from this lab?**
 
-# [Double-click to enter your responses here.]
