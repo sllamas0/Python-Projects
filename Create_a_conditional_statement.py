@@ -436,7 +436,3 @@ else:
 
 # When the user is within the approved list, and during organization hours, then the script will print " Login attempt made by an approved user during organziation hours." If not an approved user, or logging in outside of organization hours, then the script will state so.
 
-# ## Conclusion
-# **What are your key takeaways from this lab?**
-# 
-# [Double-click to enter your responses here.]
