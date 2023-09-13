@@ -385,14 +385,4 @@ while i <= 5150:
 
 # So that the loop displayes all the numbers, or else it would only print out when it equals 5100.
 
-# ## Conclusion
-# **What are your key takeaways from this lab?**
-# 
-# [Double-click to enter your responses here.]
-#     
-# 
-# 
-# 
-# 
-# 
-# 
+
