@@ -306,9 +306,3 @@ list_to_string()
 # What do you notice about the output from the function call this time?
 
 # It is the same as before, however it is much easier to read and the added commas denote different usernames easier than before.
-
-# ## Conclusion
-# 
-# **What are your key takeaways from this lab?**
-
-# [Double-click to enter your responses here.]
