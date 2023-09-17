@@ -418,16 +418,6 @@ print(url[8:ind])
 #     
 # </details>
 
-# ## Conclusion
-# **What are your key takeaways from this lab?**
-# 
-# [Double-click to enter your responses here.]
-# 
-# 
-#     
-# 
-# 
-# 
-# 
+
 # 
 # 
