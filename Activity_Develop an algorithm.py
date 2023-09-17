@@ -548,9 +548,3 @@ login("username", "device id")
 # 
 
 # when the device_id is correct then it states that their device id is the one approved for them to use. When it is incorrect it informs them that their device id is not one of those assigned in the system.
-
-# ## Conclusion
-# 
-# **What are your key takeaways from this lab?**
-
-# [Double-click to enter your responses here.]
